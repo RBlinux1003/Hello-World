@@ -1,2 +1,18 @@
-# Hello-World
-This is a simple Hello-World project to understand git and what can be done using git like pull request and git command
+# Hello World - 
+
+THis is a simple project to understand git and and how version control works. 
+
+Git
+GitHub
+Pull Requests
+Branches 
+
+
+
+
+
+
+
+
+
+
